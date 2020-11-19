@@ -23,7 +23,7 @@ export default function Home() {
                   alt="Free delivery icon,"
                 />
               </div>
-              <h4 className="font-bold">Free Delivery</h4>
+              <h4 className="font-semibold">Free Delivery</h4>
             </div>
             <div className="flex-1 text-center">
               <div className="mb-4">
@@ -33,7 +33,7 @@ export default function Home() {
                   alt="Weekly Discounts icon,"
                 />
               </div>
-              <h4 className="font-bold">Weekly Discounts</h4>
+              <h4 className="font-semibold">Weekly Discounts</h4>
             </div>
             <div className="flex-1 text-center">
               <div className="mb-4">
@@ -43,7 +43,7 @@ export default function Home() {
                   alt="Exclusive Discounts icon,"
                 />
               </div>
-              <h4 className="font-bold">Exclusive Discounts</h4>
+              <h4 className="font-semibold">Exclusive Discounts</h4>
             </div>
           </div>
         </div>

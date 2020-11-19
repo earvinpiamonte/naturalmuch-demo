@@ -15,10 +15,12 @@ const HeroSection = () => {
             <span className="block mb-2">
               <span>Live</span> <span className="text-orange-600">Healthy</span>
             </span>
-            <span className="text-4xl block mb-2">without breaking</span>
-            <span className="text-4xl block">the bank</span>
+            <span className="text-4xl block mb-2 font-semibold">
+              without breaking
+            </span>
+            <span className="text-4xl block font-semibold">the bank</span>
           </h1>
-          <p className="text-lg font-medium mb-12">
+          <p className="text-lg mb-12">
             <span className="block mb-2">
               We partner with your favorite brands and offer their best selling
             </span>
@@ -29,7 +31,7 @@ const HeroSection = () => {
           <p className="mb-4">
             <a
               href="#see-all-offers"
-              className="bg-orange-600 font-medium px-16 py-3 rounded-full text-white inline-block"
+              className="bg-orange-600 px-16 py-3 rounded-full text-white inline-block"
             >
               See All Offers
             </a>
