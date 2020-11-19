@@ -1,6 +1,6 @@
 # Naturalmuch demo
 
-This project is part of the Web Developer Examination for Medkismet.
+A demo site.
 
 ## Demo
 
