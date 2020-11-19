@@ -3,7 +3,7 @@ import React from "react";
 const HeroSection = () => {
   return (
     <section
-      className="pt-24 lg:py-20 bg-no-repeat bg-bottom bg-cover"
+      className="pt-24 lg:py-20 bg-no-repeat bg-bottom bg-cover bg-no-repeat"
       style={{
         backgroundImage: "url('/images/Hero Image.png')",
         height: "calc(100vh + 175px)",

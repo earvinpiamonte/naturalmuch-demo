@@ -6,7 +6,7 @@ export const siteMetaData = {
   title: "Naturalmuch demo by @earvinpiamonte",
   description: "Naturalmuch demo by @earvinpiamonte",
   twitterHandle: "earvinpiamonte",
-  socialPreview: "/images/preview.png",
+  socialPreview: "/images/preview.jpg",
 };
 
 export default function Layout({ children, home }) {
