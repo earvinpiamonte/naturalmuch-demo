@@ -17,7 +17,7 @@ const HeroSection = () => {
             <span className="text-4xl block mb-2">without breaking</span>
             <span className="text-4xl block">the bank</span>
           </h1>
-          <p class="text-lg font-medium mb-12">
+          <p className="text-lg font-medium mb-12">
             <span className="block mb-2">
               We partner with your favorite brands and offer their best selling
             </span>
