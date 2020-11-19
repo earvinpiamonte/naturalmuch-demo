@@ -3,9 +3,10 @@ import React from "react";
 const HeroSection = () => {
   return (
     <section
-      className="bg-red-100 pt-24 lg:py-20 h-screen bg-no-repeat bg-center"
+      className="pt-24 lg:py-20 bg-no-repeat bg-bottom bg-cover"
       style={{
         backgroundImage: "url('/images/Hero Image.png')",
+        height: "calc(100vh + 175px)",
       }}
     >
       <div className="container px-4 mx-auto">

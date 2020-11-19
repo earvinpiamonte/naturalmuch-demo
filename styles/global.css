@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400&display=swap");
+
 @tailwind base;
 
 /* Write your own custom base styles here */
@@ -7,6 +9,11 @@
 /* Stop purging. */
 
 /* Write your own custom component styles here */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .app-p {
   @apply mb-3;
 }
