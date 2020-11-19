@@ -37,7 +37,7 @@ const Header = () => {
                 <div className="text-sm">
                   <a
                     href="#login-signup"
-                    className="bg-orange-600 px-6 py-2 rounded-full text-white text-center block"
+                    className="app-btn-primary px-6 py-2 rounded-full text-white text-center block"
                   >
                     <span>Log in</span>
                     <span className="hidden lg:inline">/</span>{" "}

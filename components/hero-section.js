@@ -13,7 +13,8 @@ const HeroSection = () => {
         <div className="text-center">
           <h1 className="text-5xl font-bold leading-none mb-4">
             <span className="block mb-2">
-              <span>Live</span> <span className="text-orange-600">Healthy</span>
+              <span>Live</span>{" "}
+              <span className="app-text-primary">Healthy</span>
             </span>
             <span className="text-4xl block mb-2 font-semibold">
               without breaking
@@ -31,7 +32,7 @@ const HeroSection = () => {
           <p className="mb-4">
             <a
               href="#see-all-offers"
-              className="bg-orange-600 px-16 py-3 rounded-full text-white inline-block"
+              className="app-btn-primary px-16 py-3 rounded-full text-white inline-block"
             >
               See All Offers
             </a>
