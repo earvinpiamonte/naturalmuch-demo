@@ -13,4 +13,4 @@ This demo project is built with Next.js and Tailwind CSS. Check this [template](
 
 ## Developer
 
-Project created by [@earvinpiamonte](https://earvinpiamonte.com).
+Project created by [earvinpiamonte.com](https://www.earvinpiamonte.com).
